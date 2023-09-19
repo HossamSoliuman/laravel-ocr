@@ -1,6 +1,6 @@
 {
     "name": "hossamsoliuman/laravel-ocr",
-    "description": "Optimal character recoignition with laravel",
+    "description": "Optimal character recognition with Laravel",
     "version": "1.0.0",
     "require": {
         "thiagoalessio/tesseract_ocr": "^2.12",
@@ -15,14 +15,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "hossam",
+            "name": "Hossam",
             "email": "hossamsoliuman@gmail.com"
         }
     ],
     "extra": {
         "laravel": {
             "providers": [
-                "Hossam\\LaravelOcr\\Providers\\laravelOcrServiceProvider"
+                "Hossam\\LaravelOcr\\Providers\\LaravelOcrServiceProvider"
             ]
         }
     }
